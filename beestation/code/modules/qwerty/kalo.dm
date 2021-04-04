@@ -1,5 +1,5 @@
-/mob/living/simple_animal/kalo //basically an IC garbage collector for blood tracks and snacks
-	name = "Kalo"
+/mob/living/simple_animal/marg //basically an IC garbage collector for blood tracks and snacks
+	name = "Marg"
 	desc = "The Janitor's tiny pet lizard." //does the job better than the janitor itself
 	icon_state = "lizard"
 	icon_living = "lizard"
